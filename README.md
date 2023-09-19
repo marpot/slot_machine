@@ -1,2 +1,2 @@
-# slot_machine
+# Slot_Machine
 Project simulating gambling machine
